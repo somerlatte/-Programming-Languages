@@ -1,0 +1,13 @@
+Escreva uma função allTrue: bool list -> bool que receba uma lista de booleanos e retorne true apenas se todos os elementos da lista de entrada forem verdadeiros.
+
+Exemplo 1
+
+input: [true, ..., true]
+
+output: val it = true : bool
+
+Exemplo 2
+
+input: [true, ..., true, false, true, ..., true]
+
+output: val it = false : bool
